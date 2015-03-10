@@ -1,0 +1,4 @@
+<aura:component >
+       <ui:inputText  class="testcss" label="First name" placeholder="Enter text"/>
+       <ui:inputText  label="Last name" placeholder="last name text"/>
+</aura:component>
